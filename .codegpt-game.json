@@ -1,0 +1,8 @@
+{
+  "name": "setor-7",
+  "engine": "generic",
+  "launch": { "cmd": "node", "args": ["serve.mjs"] },
+  "log": { "stdout": true },
+  "ready": "READY",
+  "sourceRoots": ["."]
+}

@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  background: #07080c;
+  overflow: hidden;
+}
+canvas {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  cursor: crosshair;
+  user-select: none;
+  touch-action: none;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
